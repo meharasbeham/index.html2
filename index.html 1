@@ -1,0 +1,16 @@
+<!DOCTYPE HTML>
+       <html>
+       <table>
+       <thead>
+       <tr>state of health</tr><th>fasting value</tr><tr>after remaining</tr>
+       <th>Minimum</th>
+       <th>Normal</th>
+       <th>2 Hours Of Eating</th>
+
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>healthy</td><td>
+pre.diabetes</td><td>diabetes</td>
+<td>70</td><td>100</td><td>lessthen</td>
